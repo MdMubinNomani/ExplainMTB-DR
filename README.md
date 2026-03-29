@@ -1,4 +1,4 @@
-# ExplainMTB-DR
+# Explainable Machine Learning for Novel TB Resistance Marker Discovery
 Understanding how Mycobacterium tuberculosis (MTB) develops resistance to drugs is essential for improving early diagnosis and ensuring effective treatment, which ultimately helps reduce the global burden of tuberculosis (TB). When exposed to anti-TB drugs over time, MTB undergoes genetic changes and gradually accumulates mutations that can lead to resistance. Although many resistance-associated mutations have already been identified, the existing knowledge is still incomplete, making it important to develop better methods for discovering new resistance markers.
 
 In this study, we propose xAI-MTBDR, an explainable artificial intelligence framework designed to identify mutations linked to drug resistance and to predict resistance patterns in MTB. Unlike many traditional models, this framework not only achieves high accuracy but also provides clear insights into how individual mutations contribute to resistance. This added interpretability makes the model more useful for both computational analysis and biological understanding.
